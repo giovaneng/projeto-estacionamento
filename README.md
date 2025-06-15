@@ -37,7 +37,7 @@ A interface gráfica foi construída com Swing e contém:
 
 ## Tecnologias Usadas
 
-- Java 8 ou superior
+- Java 
 - Java Swing (javax.swing)
 - IDE: IntelliJ IDEA
 
